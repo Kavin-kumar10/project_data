@@ -1,0 +1,251 @@
+{
+    "users": [
+      { "id": 1, "email": "kavinkumarm@presidio.com", "password": "pass" }
+    ],
+    "thumpnails":[
+      {
+        "id":1,
+        "title":"Product Design",
+        "image":"https://cdn.dribbble.com/userupload/16439366/file/original-fe0661cecb3f5f91a38b94d69a1bfeca.jpg?format=webp&resize=400x300&vertical=center"
+      },
+      {
+        "id":2,
+        "title":"Typography",
+        "image":"https://cdn.dribbble.com/userupload/16086080/file/original-c5b8230ecdc5a1ef3decb0cc5bc7da54.png?format=webp&resize=400x300&vertical=center"
+      },
+      {
+        "id":3,
+        "title":"Print",
+        "image":"https://cdn.dribbble.com/userupload/16116505/file/original-f2caa5da0b7f7f4c7c64a233d1a28723.png?format=webp&resize=400x300&vertical=center"
+      },
+      {
+        "id":4,
+        "title":"Branding",
+        "image":"https://cdn.dribbble.com/userupload/16305659/file/original-c7758f4192a1e0b4b721351fef094ad6.jpg?format=webp&resize=400x300&vertical=center"
+      },
+      {
+        "id":5,
+        "title":"Typography",
+        "image":"https://cdn.dribbble.com/userupload/16086080/file/original-c5b8230ecdc5a1ef3decb0cc5bc7da54.png?format=webp&resize=400x300&vertical=center"
+      },
+      {
+        "id":6,
+        "title":"Animation",
+        "image":"https://cdn.dribbble.com/userupload/16455782/file/still-8b9ba61f3a6397572a4e03a827c61278.png?format=webp&resize=400x300&vertical=center"
+      },
+      {
+        "id":7,
+        "title":"Mobile",
+        "image":"https://cdn.dribbble.com/userupload/16493099/file/original-d2fa4928230371433cf36608375c85e8.png?format=webp&resize=400x300&vertical=center"
+      },
+      {
+        "id":8,
+        "title":"Illustration",
+        "image":"https://cdn.dribbble.com/userupload/16461003/file/original-40da9caebd81c1495a21ba884dae678e.png?format=webp&resize=400x300&vertical=center"
+      },
+      {
+        "id":9,
+        "title":"Web design",
+        "image":"https://cdn.dribbble.com/userupload/16452205/file/original-114536af3a7204d5c3d07990cb0c764a.png?format=webp&resize=400x300&vertical=center"
+      }
+    ],
+    "designs":[
+      {
+        "name":"Plainthing studio",
+        "mode":"TEAM",
+        "title":"Job fine Job Market",
+        "image":"https://cdn.dribbble.com/userupload/16891178/file/original-b37609d63785ab9092e683d7b1c9ef2c.png?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/970950/avatars/small/99e4a7b3bf179dd023d98ed24e0a8f32.png?1623907697"
+      },
+      {
+        "name":"Emote",
+        "mode":"TEAM",
+        "title":"OMO website interaction",
+        "image":"https://cdn.dribbble.com/userupload/16888254/file/still-b383cfbe858db7e6a2a08c7c77489656.png?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/11502486/avatars/small/a8456497e26e27118763af6fc5b5fbcc.png?1650726363"
+      },
+      {
+        "name":"Odama",
+        "mode":"TEAM",
+        "title":"UI UX design for apps",
+        "image":"https://cdn.dribbble.com/userupload/16891986/file/original-eb2d62e25eeff95ab45c50033280f4dc.png?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/6850340/avatars/small/09e52d7cca4f82c18e68ba67bbaeb1dc.png?1664764970"
+      },
+      {
+        "name":"Afterglow",
+        "mode":"TEAM",
+        "title":"Dashboard Task man",
+        "image":"https://cdn.dribbble.com/userupload/16894840/file/original-36d478d7e2a8889d9baa060292dced85.jpg?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/2146089/avatars/small/f4341ad93ec3f7993925167d4b10a96a.png?1652815707"
+      },
+      {
+        "name":"Heyo",
+        "mode":"TEAM",
+        "title":"Town and Country",
+        "image":"https://cdn.dribbble.com/userupload/16888702/file/original-471690f43e32af87af8534dfdff87455.jpg?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/414979/avatars/small/6a3fb4b20c29dce831a74dc7dbf591c4.png?1695741732"
+      },
+      {
+        "name":"Keitoto",
+        "mode":"TEAM",
+        "title":"Crypto Wallet Dashboard",
+        "image":"https://cdn.dribbble.com/userupload/16891187/file/original-24a998468a199c7a7c1b63754a6d38f5.png?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/6487750/avatars/small/9bfce022a9a629ee36d31ce439020ba2.png?1714974300"
+      },
+      {
+        "name":"Extej UI UX",
+        "mode":"PRO",
+        "title":"Crypto Wallet Dashboard",
+        "image":"https://cdn.dribbble.com/userupload/16888186/file/original-8ad1258bf0bc5c32f13de04967c2f98e.jpg?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/1043230/avatars/small/092502a9a3cea1c44dd5e5f9939430b4.png?1540212885"
+      },
+      {
+        "name":"Plainthing studio",
+        "mode":"TEAM",
+        "title":"Job fine Job Market",
+        "image":"https://cdn.dribbble.com/userupload/16891178/file/original-b37609d63785ab9092e683d7b1c9ef2c.png?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/970950/avatars/small/99e4a7b3bf179dd023d98ed24e0a8f32.png?1623907697"
+      },
+      {
+        "name":"Emote",
+        "mode":"TEAM",
+        "title":"OMO website interaction",
+        "image":"https://cdn.dribbble.com/userupload/16888254/file/still-b383cfbe858db7e6a2a08c7c77489656.png?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/11502486/avatars/small/a8456497e26e27118763af6fc5b5fbcc.png?1650726363"
+      },
+      {
+        "name":"Odama",
+        "mode":"TEAM",
+        "title":"UI UX design for apps",
+        "image":"https://cdn.dribbble.com/userupload/16891986/file/original-eb2d62e25eeff95ab45c50033280f4dc.png?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/6850340/avatars/small/09e52d7cca4f82c18e68ba67bbaeb1dc.png?1664764970"
+      },
+      {
+        "name":"Afterglow",
+        "mode":"TEAM",
+        "title":"Dashboard Task man",
+        "image":"https://cdn.dribbble.com/userupload/16894840/file/original-36d478d7e2a8889d9baa060292dced85.jpg?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/2146089/avatars/small/f4341ad93ec3f7993925167d4b10a96a.png?1652815707"
+      },
+      {
+        "name":"Heyo",
+        "mode":"TEAM",
+        "title":"Town and Country",
+        "image":"https://cdn.dribbble.com/userupload/16888702/file/original-471690f43e32af87af8534dfdff87455.jpg?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/414979/avatars/small/6a3fb4b20c29dce831a74dc7dbf591c4.png?1695741732"
+      },
+      {
+        "name":"Keitoto",
+        "mode":"TEAM",
+        "title":"Crypto Wallet Dashboard",
+        "image":"https://cdn.dribbble.com/userupload/16891187/file/original-24a998468a199c7a7c1b63754a6d38f5.png?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/6487750/avatars/small/9bfce022a9a629ee36d31ce439020ba2.png?1714974300"
+      },
+      {
+        "name":"Extej UI UX",
+        "mode":"PRO",
+        "title":"Crypto Wallet Dashboard",
+        "image":"https://cdn.dribbble.com/userupload/16888186/file/original-8ad1258bf0bc5c32f13de04967c2f98e.jpg?resize=640x480&vertical=center",
+        "logo":"https://cdn.dribbble.com/users/1043230/avatars/small/092502a9a3cea1c44dd5e5f9939430b4.png?1540212885"
+      }
+    ],
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Elif Kameşoğlu",
+        "role":"Brand Designer",
+        "skills":[
+            "Brand",
+            "Illustration",
+            "Web"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47175/original/1fb34610061a95a007ac5e7b1dc53138.jpeg?1685645183&format=webp&resize=436x543&vertical=center"
+      },
+      {
+        "id": 2,
+        "name": "Mercedes Bazan",
+        "role":"Illustrator",
+        "skills":[
+            "Graphic Design",
+            "Illustration"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47178/original/mercedes-bazan.png?1689174566&format=webp&resize=436x543&vertical=center"
+      },
+      {
+        "id":3,
+        "name":"Dan Mall",
+        "role":"Design Educator",
+        "skills":["Product","UX"],
+        "profilePicture":"https://cdn.dribbble.com/uploads/47176/original/9b22cd83bde1809976bec0722d1f8923.jpeg?1685645213&format=webp&resize=436x543&vertical=center"
+      },
+      {
+        "id": 4,
+        "name": "Jesse Showalter",
+       "role":"Design Educator",
+        "skills":[
+            "UI",
+            "Web",
+            "Mobile"
+        ], 
+        "profilePicture": "",
+        "video":"https://cdn.dribbble.com/uploads/47179/original/35d07cfebd303e05e688078015da0cc2.mp4?1685645373"
+      },
+      {
+        "id": 5,
+        "name": "Aurélien Salomon",
+        "role":"Design Director",
+        "skills":[
+            "Mobile",
+            "Product",
+            "UX"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47171/original/daniele-buffa-3.png?1689174763&format=webp&resize=436x543&vertical=center"
+      },
+      {
+        "id": 6,
+        "name": "Helen Tran",
+        "role":"Lead Product Designer",
+        "skills":[
+            "Leadership",
+            "Product",
+            "UX"
+        ],
+        "profilePicture": "",
+        "video":"https://cdn.dribbble.com/uploads/47181/original/1e3a73a174484bef522b620c401cd00a.mp4?1685645427"
+      },
+      {
+        "id": 7,
+        "name": "Chris Owens",
+        "role":"Creative Director",
+        "skills":[
+            "Illustration",
+            "Mobile",
+            "UX"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47173/original/Vladimir_Gruev.png?1689174896&format=webp&resize=400x498&vertical=center"
+      },
+      {
+        "id": 8,
+        "name": "Helen Tran",
+        "role":"Lead Product Designer",
+        "skills":[
+            "Leadership",
+            "Product",
+            "UX"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47170/original/cd3266dde4f00a5d6a509c7375ddaecd.png?1685644840&format=webp&resize=400x498&vertical=center"
+      },
+      {
+        "id": 9,
+        "name": "Daniele Buffa",
+        "role":"Principal Designer",
+        "skills":[
+            "Animation",
+            "Visual",
+            "UX"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47177/original/3986915be548424a5d36657f2b034ead.jpeg?1685645250&format=webp&resize=436x543&vertical=center"
+      }
+    ]
+  }
+  
