@@ -7,7 +7,7 @@ const cors = require('cors');
 app.use(cors());
 app.use(express.json());
 
-app.get('/thumbnails', (req, res) => {
+app.get('/thumpnails', (req, res) => {
   res.json(data.thumpnails);
 });
 
