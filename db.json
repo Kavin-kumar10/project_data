@@ -341,6 +341,102 @@
             "UX"
         ],
         "profilePicture": "https://cdn.dribbble.com/uploads/47177/original/3986915be548424a5d36657f2b034ead.jpeg?1685645250&format=webp&resize=436x543&vertical=center"
+      },
+      {
+        "id": 1,
+        "name": "Elif Kameşoğlu",
+        "role":"Brand Designer",
+        "skills":[
+            "Brand",
+            "Illustration",
+            "Web"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47175/original/1fb34610061a95a007ac5e7b1dc53138.jpeg?1685645183&format=webp&resize=436x543&vertical=center"
+      },
+      {
+        "id": 2,
+        "name": "Mercedes Bazan",
+        "role":"Illustrator",
+        "skills":[
+            "Graphic Design",
+            "Illustration"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47178/original/mercedes-bazan.png?1689174566&format=webp&resize=436x543&vertical=center"
+      },
+      {
+        "id":3,
+        "name":"Dan Mall",
+        "role":"Design Educator",
+        "skills":["Product","UX"],
+        "profilePicture":"https://cdn.dribbble.com/uploads/47176/original/9b22cd83bde1809976bec0722d1f8923.jpeg?1685645213&format=webp&resize=436x543&vertical=center"
+      },
+      {
+        "id": 4,
+        "name": "Jesse Showalter",
+       "role":"Design Educator",
+        "skills":[
+            "UI",
+            "Web",
+            "Mobile"
+        ], 
+        "profilePicture": "",
+        "video":"https://cdn.dribbble.com/uploads/47179/original/35d07cfebd303e05e688078015da0cc2.mp4?1685645373"
+      },
+      {
+        "id": 5,
+        "name": "Aurélien Salomon",
+        "role":"Design Director",
+        "skills":[
+            "Mobile",
+            "Product",
+            "UX"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47171/original/daniele-buffa-3.png?1689174763&format=webp&resize=436x543&vertical=center"
+      },
+      {
+        "id": 6,
+        "name": "Helen Tran",
+        "role":"Lead Product Designer",
+        "skills":[
+            "Leadership",
+            "Product",
+            "UX"
+        ],
+        "profilePicture": "",
+        "video":"https://cdn.dribbble.com/uploads/47181/original/1e3a73a174484bef522b620c401cd00a.mp4?1685645427"
+      },
+      {
+        "id": 7,
+        "name": "Chris Owens",
+        "role":"Creative Director",
+        "skills":[
+            "Illustration",
+            "Mobile",
+            "UX"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47173/original/Vladimir_Gruev.png?1689174896&format=webp&resize=400x498&vertical=center"
+      },
+      {
+        "id": 8,
+        "name": "Helen Tran",
+        "role":"Lead Product Designer",
+        "skills":[
+            "Leadership",
+            "Product",
+            "UX"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47170/original/cd3266dde4f00a5d6a509c7375ddaecd.png?1685644840&format=webp&resize=400x498&vertical=center"
+      },
+      {
+        "id": 9,
+        "name": "Daniele Buffa",
+        "role":"Principal Designer",
+        "skills":[
+            "Animation",
+            "Visual",
+            "UX"
+        ],
+        "profilePicture": "https://cdn.dribbble.com/uploads/47177/original/3986915be548424a5d36657f2b034ead.jpeg?1685645250&format=webp&resize=436x543&vertical=center"
       }
     ]
   }
